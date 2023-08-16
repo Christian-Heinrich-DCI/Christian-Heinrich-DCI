@@ -6,7 +6,7 @@ I worked in web and graphic design as a freelancer, attended the DCI web dev cou
 
 * 🌍  I'm based in Leipzig, Germany
 * ✉️  You can contact me at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js & Astro
 
 <a href="https://www.github.com/Christian-Heinrich-DCI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Christian-Heinrich-DCI?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
