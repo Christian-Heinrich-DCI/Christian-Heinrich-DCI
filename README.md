@@ -2,10 +2,11 @@
 
 ## Web Dev Assistant Teacher @ DCI
 
-I worked in web and graphic design as a freelancer, attended the DCI web dev course in 2020 myself and started working as an assistant teacher in 2021.
+I worked as a freelancer in web and graphic design, attended the DCI web dev course as a student in 2020 and started working as an assistant teacher in 2021.
 
 * 🌍  I'm based in Leipzig, Germany
 * ✉️  You can contact me at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
+* 🎨  I'm interested in combining Code & Art (Hello Canvas!)
 * 🧠  I'm learning Next.js & Astro
 
 <a href="https://www.github.com/Christian-Heinrich-DCI" target="_blank" rel="noreferrer"><img
