@@ -7,7 +7,7 @@ I worked as a freelancer in web and graphic design, attended the DCI web dev cou
 * 🌍  I'm based in Leipzig, Germany
 * ✉️  You can contact me at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
 * 🎨  I'm interested in combining Code & Art (Hello Canvas!)
-* 🧠  I'm learning Python + HTMX
+* 🧠  I'm learning Typescript, Python + HTMX
 
 <a href="https://www.github.com/Christian-Heinrich-DCI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Christian-Heinrich-DCI?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
