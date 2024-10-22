@@ -1,6 +1,6 @@
 # Hi 👋 My name is Christian Heinrich
 
-## Web Dev Assistant Teacher @ DCI
+## Web Dev Junior Teacher @ DCI
 
 I worked as a freelancer in web and graphic design, attended the DCI web dev course as a student in 2020 and started working as an assistant teacher in 2021.
 
