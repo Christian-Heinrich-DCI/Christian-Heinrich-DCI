@@ -2,7 +2,7 @@
 
 ## Web Dev Junior Teacher @ DCI
 
-I worked as a freelancer in web and graphic design, attended the DCI web dev course as a student in 2020 and started working as an assistant teacher in 2021.
+I worked as a freelancer in web and graphic design, attended the DCI web dev course as a student in 2020 and started working as an assistant teacher in 2021. I'm a junior teacher in MAT since November 2024.
 
 * 🌍  I'm based in Leipzig, Germany
 * ✉️  You can contact me at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
