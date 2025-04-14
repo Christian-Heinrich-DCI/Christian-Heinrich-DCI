@@ -7,7 +7,7 @@ I discovered the internet in the late 90s, taught myself HTML/CSS and worked as 
 2020 was a year of big personal and global changes, I attended the DCI fullstack webdev course and after finishing it in 2021 started working at the DCI.
 
 * 🌍  I'm based in Leipzig, Germany
-* ✉️  You can contact me at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
+* ✉️  You can contact me via **Slack** (DCI Students workspace) or at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
 * 🎨  I'm interested in combining Code & Art (Hello Canvas!)
 * 🧠  I'm currently learning Typescript, Python + HTMX
 * 🎮  I'm currently playing Cyberpunk 2077
