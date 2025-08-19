@@ -1,6 +1,6 @@
 # Hi 👋 My name is Christian Heinrich
 
-## Web Dev Junior Teacher & Individual Coaching @ DCI
+## Web Dev Junior Teacher & Individual Coach [Ger+En] @ DCI
 
 This is my old teaching account. I used it for four years (between 08/2021 and 07/2024) and is now in archive mode. My private account is here: https://github.com/coffeepyros
 
