@@ -2,12 +2,9 @@
 
 ## Web Dev Junior Teacher & Individual Coaching @ DCI
 
-I discovered the internet in the late 90s, taught myself HTML/CSS and worked as a freelance web + graphic designer since the early 2000s. Along the way I got an additional graphic design education and found my passion for typography.
-
-2020 was a year of big personal and global changes, I attended the DCI fullstack webdev course and after finishing it in 2021 started working at the DCI.
+This is my old teacher account. I used for four years between 08/2021 and 07/2024. My private account is here: https://github.com/coffeepyros
 
 * 🌍  I'm based in Leipzig, Germany
-* ✉️  You can contact me via **Slack** (DCI Students workspace) or at [christian.heinrich(at)digitalcareerinstitute.org](mailto:christian.heinrich(at)digitalcareerinstitute.org)
 * 🎨  I'm interested in combining Code & Art (Hello Canvas!)
 * 🧠  I'm currently learning Typescript, Python + HTMX
 * 🎮  I'm currently playing Cyberpunk 2077
