@@ -2,12 +2,12 @@
 
 ## Web Dev Junior Teacher & Individual Coaching @ DCI
 
-This is my old teacher account. I used for four years between 08/2021 and 07/2024. My private account is here: https://github.com/coffeepyros
+This is my old teaching account. I used it for four years (between 08/2021 and 07/2024) and is now in archive mode. My private account is here: https://github.com/coffeepyros
 
 * 🌍  I'm based in Leipzig, Germany
 * 🎨  I'm interested in combining Code & Art (Hello Canvas!)
-* 🧠  I'm currently learning Typescript, Python + HTMX
-* 🎮  I'm currently playing Cyberpunk 2077
+* 🧠  I'm currently learning Typescript + Python
+* 🎮  I'm currently playing Expedition 33
 
 <a href="https://www.github.com/Christian-Heinrich-DCI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Christian-Heinrich-DCI?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
